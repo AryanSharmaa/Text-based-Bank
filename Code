@@ -15,7 +15,7 @@ public class Bank1 {
 		System.out.println("Bank Admin Menu");
 		System.out.println();
         System.out.println("Please enter a menu option:");
-        System.out.println("(1): Add acustomer to the bank");
+        System.out.println("(1): Add a customer to the bank");
         System.out.println("(2): Change customer name");
         System.out.println("(3): Check account balance");
         System.out.println("(4): Modify account balance");
